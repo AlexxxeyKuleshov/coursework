@@ -47,9 +47,25 @@ coursework/
 
 ## ⚙️ Сборка и запуск
 
-1. Убедитесь, что у вас установлена **Visual Studio** с поддержкой C++ и OpenGL.
-2. Откройте файл `KGlab.sln`.
-3. Постройте проект и запустите его.
+1. Клонировать репозиторий:
+
+   ```bash
+   git clone https://github.com/your-username/site-policies.git
+   cd astro-site-policies
+
+   ```
+
+2. Убедитесь, что у вас установлена:
+   ```bash
+   **Visual Studio** с поддержкой **C++** и **OpenGL**
+   ```
+
+3. Откройте файл:
+  ```bash
+  KGlab.sln
+  ```
+  
+4. Постройте проект и запустите его.
 
 ---
 

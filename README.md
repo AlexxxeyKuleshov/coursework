@@ -122,9 +122,9 @@ coursework/
 
 <a id="fig4"></a>
 <p align="center">
-  <img src="/images/screenshot_4.png" alt="Рис. 4" width="600">
+  <img src="/images/screenshot_4.png" alt="Рис. 4" width="300">
   <h3 align="left">Рис. 4</h3>
   <span>&nbsp;</span>
-  <img src="/images/screenshot_5.png" alt="Рис. 5" width="600">
+  <img src="/images/screenshot_5.png" alt="Рис. 5" width="300">
   <h3 align="right">Рис. 5</h3>
 </p>

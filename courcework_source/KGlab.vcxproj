@@ -135,21 +135,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Camera.cpp" />
-    <ClCompile Include="GUItextRectangle.cpp" />
-    <ClCompile Include="Light.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="MyOGL.cpp" />
-    <ClCompile Include="Render.cpp" />
+    <ClCompile Include="src\Camera.cpp" />
+    <ClCompile Include="src\GUItextRectangle.cpp" />
+    <ClCompile Include="src\Light.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\MyOGL.cpp" />
+    <ClCompile Include="src\Render.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Camera.h" />
-    <ClInclude Include="Event.h" />
-    <ClInclude Include="GUItextRectangle.h" />
-    <ClInclude Include="Light.h" />
-    <ClInclude Include="MyOGL.h" />
-    <ClInclude Include="Render.h" />
-    <ClInclude Include="stb_image.h" />
+    <ClInclude Include="include\Camera.h" />
+    <ClInclude Include="include\Event.h" />
+    <ClInclude Include="include\GUItextRectangle.h" />
+    <ClInclude Include="include\Light.h" />
+    <ClInclude Include="include\MyOGL.h" />
+    <ClInclude Include="include\Render.h" />
+    <ClInclude Include="include\stb_image.h" />
+    <ClInclude Include="include\Vector3.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="recources\texture.png" />
+    <Image Include="recources\texture_alpha.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -9,9 +9,6 @@
 #include <iostream>
 
 
-
-
-
 #ifdef _DEBUG
 #include <Debugapi.h> 
 struct debug_print

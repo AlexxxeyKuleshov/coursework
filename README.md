@@ -84,23 +84,23 @@ coursework/
 <a id="fig1"></a>
 <p align="left">
   <img src="/images/screenshot_1.png" alt="Рис. 1" width="600">
-<h3 align="center">Рис. 1</h3>
+<h3 align="left">Рис. 1</h3>
 </p>
 
 <a id="fig2"></a>
-<p align="center">
+<p align="right">
   <img src="/images/screenshot_2.png" alt="Рис. 2" width="600">
-<h3 align="center">Рис. 2</h3>
+<h3 align="right">Рис. 2</h3>
 </p>
 
 <a id="fig3"></a>
-<p align="center">
+<p align="left">
   <img src="/images/screenshot_3.png" alt="Рис. 3" width="600">
-<h3 align="center">Рис. 3</h3>
+<h3 align="left">Рис. 3</h3>
 </p>
 
 <a id="fig4"></a>
-<p align="center">
+<p align="right">
   <img src="/images/screenshot_4.png" alt="Рис. 4" width="600">
-<h3 align="center">Рис. 4</h3>
+<h3 align="right">Рис. 4</h3>
 </p>

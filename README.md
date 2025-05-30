@@ -54,7 +54,7 @@ coursework/
 
    ```
 
-2. Убедитесь, что у вас установлена:
+2. Убедитесь, что у вас установлено:
    ```bash
    Visual Studio с поддержкой C++ и OpenGL
    ```
@@ -102,17 +102,23 @@ coursework/
 <h3 align="center">Рис. 1</h3>
 </p>
 
+---
+
 <a id="fig2"></a>
 <p align="center">
   <img src="/images/screenshot_2.png" alt="Рис. 2" width="600">
 <h3 align="center">Рис. 2</h3>
 </p>
 
+---
+
 <a id="fig3"></a>
 <p align="center">
   <img src="/images/screenshot_3.png" alt="Рис. 3" width="600">
 <h3 align="center">Рис. 3</h3>
 </p>
+
+---
 
 <a id="fig4"></a>
 <p align="center">

@@ -82,7 +82,7 @@ coursework/
 ---
 
 <a id="fig1"></a>
-<p align="center">
+<p align="left">
   <img src="/images/screenshot_1.png" alt="Рис. 1" width="600">
 <h3 align="center">Рис. 1</h3>
 </p>

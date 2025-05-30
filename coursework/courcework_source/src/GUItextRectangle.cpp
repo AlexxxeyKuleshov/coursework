@@ -1,4 +1,4 @@
-﻿#include "GUItextRectangle.h"
+﻿#include "../include/GUItextRectangle.h"
 #include <algorithm>
 
 #include <windows.h>

@@ -92,7 +92,7 @@ coursework/
 
 3. <a href="#fig3">Альфа-прозрачность</a> 
 
-4-5. <a href="#fig4">Перемещение источника света</a>
+4. <a href="#fig4">Перемещение источника света</a>
 
 ---
 
@@ -121,13 +121,10 @@ coursework/
 ---
 
 <a id="fig4"></a>
-<p align="left">
-  <img src="/images/screenshot_4.png" alt="Рис. 4" width="350">
-<h3 align="left">Рис. 4</h3>
-</p>
-
-<a id="fig4"></a>
-<p align="right">
-  <img src="/images/screenshot_5.png" alt="Рис. 5" width="350">
-<h3 align="right">Рис. 5</h3>
+<p align="center">
+  <img src="/images/screenshot_4.png" alt="Рис. 4" width="600">
+  <h3 align="left">Рис. 4</h3>
+  <span>&nbsp;</span>
+  <img src="/images/screenshot_5.png" alt="Рис. 5" width="600">
+  <h3 align="right">Рис. 5</h3>
 </p>

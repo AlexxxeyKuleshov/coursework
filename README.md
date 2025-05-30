@@ -50,21 +50,20 @@ coursework/
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/your-username/site-policies.git
-   cd astro-site-policies
+   git clone https://github.com/your-username/courcework.git
 
    ```
 
 2. Убедитесь, что у вас установлена:
    ```bash
-   **Visual Studio** с поддержкой **C++** и **OpenGL**
+   Visual Studio с поддержкой C++ и OpenGL
    ```
 
 3. Откройте файл:
-  ```bash
-  KGlab.sln
-  ```
-  
+   ```bash
+   KGlab.sln
+   ```
+
 4. Постройте проект и запустите его.
 
 ---
